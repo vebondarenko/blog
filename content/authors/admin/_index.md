@@ -1,39 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Бондаренко Елизавета 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студентка
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: RUDN University
+    url: https://esystem.rudn.ru/user/profile.php?id=79501
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: lz.bondarini
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Пилю не только мозг, но и ноготочки
+  - Танцор с большой буквы)
+  - Математика и информатика
 
 # Education to show in About widget
-education:
+education: 
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 1 курс, направление "Прикладная математика и информатика"
+      institution: RUDN University
+      year: 2022
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +65,7 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Бондаренко Елизавета. Родилась в городе Брянск, с 5 лет пошла в музыкальную школу и окончила её с двумя красными дипломами по классу фортепиано и скрипка. Затем танцевала в двух лучших танцевальных командах "Elegia" и "Dance baza F&B". Училась в школе на "отлично", была активисткой и призером и победителем олимпиад по немецкому языку. Сдала экзамены на высокие баллы и посупила в один из лучших вузову страны- РУДН.
+Сейчас она является старостой группы НПМбд-01-21, а также старостой потока 1 курса. Лиза состоит в студенческом коммитете(работа с иностранными студентами), активистка. А вообще, она считает, что лучше маленький доллар, чем большое спасибо.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
