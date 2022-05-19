@@ -23,7 +23,7 @@ feature:
   - description: 100%
     icon: ":woman_dancing:"
     icon_pack: emoji
-    name: тусить каждый день
+    name: тусить каждый день!
   - description: 50%
     icon: ":woman_office_worker:"
     icon_pack: emoji
